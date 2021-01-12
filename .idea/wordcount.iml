@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$" />
+        <option name="settingsModule" value="wordcount/settings.py" />
+        <option name="manageScript" value="$MODULE_DIR$/manage.py" />
+        <option name="environment" value="&lt;map&gt;&#10;  &lt;entry&gt;&#10;    &lt;string&gt;Path&lt;/string&gt;&#10;    &lt;string&gt;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\SoLo KinG\AppData\Local\Microsoft\WindowsApps;C:\Program Files (x86)\QuickTime\QTSystem\;C:\Program Files\Git\cmd;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\NVIDIA Corporation\NVIDIA NGX;C:\Program Files\dotnet\;C:\Program Files (x86)\Brackets\command;C:\Users\SoLo KinG\Anaconda3;C:\Users\SoLo KinG\Anaconda3\Library\mingw-w64\bin;C:\Users\SoLo KinG\Anaconda3\Library\usr\bin;C:\Users\SoLo KinG\Anaconda3\Library\bin;C:\Users\SoLo KinG\Anaconda3\Scripts;C:\Users\SoLo KinG\AppData\Local\Programs\Python\Python37-32\Scripts\;C:\Users\SoLo KinG\AppData\Local\Programs\Python\Python37-32\;C:\Users\SoLo KinG\AppData\Local\Microsoft\WindowsApps;C:\Users\SoLo KinG\AppData\Local\atom\bin;C:\Program Files\JetBrains\PyCharm 2019.1.1\bin;C:\Users\SoLo KinG\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\SoLo KinG\AppData\Roaming\npm;C:\Users\SoLo KinG\.dotnet\tools;C:\Program Files\heroku\bin;C:\Users\SoLo KinG\AppData\Local\Programs\MiKTeX\miktex\bin\x64\&lt;/string&gt;&#10;  &lt;/entry&gt;&#10;&lt;/map&gt;" />
+        <option name="doNotUseTestRunner" value="false" />
+        <option name="trackFilePattern" value="migrations" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Django" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>
